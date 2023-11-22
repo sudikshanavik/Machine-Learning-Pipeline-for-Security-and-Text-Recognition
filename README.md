@@ -1,4 +1,5 @@
 # Machine Learning Pipeline for Security and Text Recognition
+### Members : Drashtant Singh Rathod, Sudiksha Navik
 + Predicting XOR-PUF Responses: Trained an SVM, Used Khatri-Rao product to perform feature engineering on the challenge-response pairs.
   + SVM with hinge loss and stochastic gradient descent performed the best on the evaluation dataset.
 + Multiclass Classification to Correct Errors in Code: Trained multiple models to detect the error class associated with a Bag of Words representation of a line of code.
