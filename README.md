@@ -8,4 +8,4 @@
 + DeCAPTCHA, Developed an end-to-end pipeline to preprocess CAPTCHA images and perform optical character recognition.
   +  Used image processing techniques namely, erosion, dilation and thresholding to remove color and obfuscation.
   +  Segmented the characters from cleaned image by scanning the pixel values in binary image.
-  + The evaluation metric was accuracy and Logistic Regression performed best against kNN, SVC and Random Forest.
+  + The evaluation metric was accuracy and CNN classifier was used.
